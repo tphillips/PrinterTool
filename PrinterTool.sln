@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrinterTool", "PrinterTool.csproj", "{F0E48E9A-F6E3-45E3-9382-5668DC3138CD}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{F0E48E9A-F6E3-45E3-9382-5668DC3138CD}.Debug.ActiveCfg = Debug|.NET
+		{F0E48E9A-F6E3-45E3-9382-5668DC3138CD}.Debug.Build.0 = Debug|.NET
+		{F0E48E9A-F6E3-45E3-9382-5668DC3138CD}.Release.ActiveCfg = Release|.NET
+		{F0E48E9A-F6E3-45E3-9382-5668DC3138CD}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
